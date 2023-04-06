@@ -1,0 +1,11 @@
+p{
+    color: red;
+    padding-top: 100px;
+    text-align: center;
+}
+
+body{
+    background-image: url("/static/Images/index.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
